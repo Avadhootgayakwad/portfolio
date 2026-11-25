@@ -2,3 +2,40 @@
 .DS_Store
 Thumbs.db
 *.log
+
+# Temporary asset optimization output
+/optimized_assets/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Local environment
+.venv/
+venv/
+.env
+.env.*
+# Responsive testing artifacts
+/responsive_audit/
+
+# Lighthouse performance reports
+/performance_audit/
+
+# Private documents
+/Documents/
+/Resume/
+/Certificates/
+/References/
+/node_modules/
+/optimized_assets/
+/responsive_audit/
+/accessibility_audit/
+/performance_audit/
+/Documents/
+/Resume/
+/Certificates/
+/References/
+__pycache__/
+*.pyc
+.env
+.env.*
